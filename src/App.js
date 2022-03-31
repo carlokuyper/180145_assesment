@@ -1,10 +1,10 @@
+import DynamicCharts from "./componets/DynamicCharts";
 
-import './App.css';
 
 function App() {
   return (
     <div className="App">
-      
+      <DynamicCharts />
     </div>
   );
 }
